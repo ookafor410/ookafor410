@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ookafor410
-- 👀 I’m interested in Technology and Social Issues.
-- 🌱 I’m currently learning Swift and Java.
+- 👀 I’m interested in Technology, Social Issues and Media.
+- 🌱 I’m currently learning C and Swift.
 - 💞️ I’m looking to collaborate on all work.
-- 📫 How to reach me ookafor410@gmail.com
+- 📫 You can reach me at ookafor410@gmail.com or ojo2019@nyu.edu
 
 <!---
 ookafor410/ookafor410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
